@@ -13,4 +13,4 @@ This repository contains my solutions to the assignments of the Coursera course
 ### Module 3
 * [Assignment description](./descriptions/assignment3/Assignment-3.md)
 * Deadline: JUNE 8, 12:29 PM PST
-* [Full Solution (including all the optional parts)](https://deepak2131.github.io/HTML-CSS-JAVASCRIPT-BY-JHU/module3_solution/)
+* [Solution](https://deepak2131.github.io/HTML-CSS-JAVASCRIPT-BY-JHU/module3_solution/)
